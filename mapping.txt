@@ -1,0 +1,11 @@
+[Files]
+"default.html"                                        "default.html"
+"\\PO160002893\tmp$\images\SplashScreen.png"          "images\SplashScreen.png"
+"\\PO160002893\tmp$\images\Square44x44Logo.png"       "images\Square44x44Logo.png"
+"\\PO160002893\tmp$\images\Square71x71Logo.png"       "images\Square71x71Logo.png"
+"\\PO160002893\tmp$\images\Square150x150Logo.png"     "images\Square150x150Logo.png"
+"\\PO160002893\tmp$\images\Square310x310Logo.png"     "images\Square310x310Logo.png"
+"\\PO160002893\tmp$\images\StoreLogo.png"             "images\StoreLogo.png"
+"\\PO160002893\tmp$\images\Wide310x150Logo.png"       "images\Wide310x150Logo.png"
+"\\PO160002893\tmp$\prd\test.txt"                     "documentsLibrary\test.txt"
+"AppxManifest.xml"                                    "AppxManifest.xml"
